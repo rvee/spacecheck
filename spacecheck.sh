@@ -13,3 +13,5 @@ then
 else
     testpath $1
 fi
+testpath $nextpath
+testpath $nextpath
